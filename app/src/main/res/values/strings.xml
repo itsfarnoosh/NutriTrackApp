@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A1</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_food_intake">FoodIntakeActivity</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_insights">InsightsActivity</string>
+</resources>
